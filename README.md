@@ -6,3 +6,17 @@ This Java program prints the leftmost node value at each level of a binary tree 
 
 Given the following tree:
 
+    1
+  /   \
+ 2     3
+  \   / \
+   4 5   6
+
+
+**Output:**
+1,2,4
+
+
+
+
+
